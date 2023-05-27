@@ -9,4 +9,4 @@ Collection of Snippets used in various data science projects
 
 ## Contact
 
-www.yvesremmler.com
+<www.yvesremmler.com>
